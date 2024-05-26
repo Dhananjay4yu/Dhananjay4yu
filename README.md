@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on *Fintech projects*
 
-- 💬 Ask me about *Financial Technology, Data Structure, Object-Oriented Programming, Cybersecurity*
+- 💬 Ask me about *AI Technology, Data Structure, Object-Oriented Programming, Machine Learning*
 
 - 📫 How to reach me *dhananjaykumar7979711@gmail.com*
 
