@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/PRIYANSHU2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhananjay Kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/PRIYANSHU2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Dhananjay Kumar" height="30" width="40" /></a>
 <a href="https://facebook.com/PRIYANSHU2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dhananjay Kumar" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=PRIYANSHU2026" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=Dhananjay4yu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
