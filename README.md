@@ -19,24 +19,6 @@
 - 📫 Reach me at: **dhananjaykumar7979711@gmail.com**
 
 ---
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/DHANANJAY4YU" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/DHANANJAY4YU" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/DHANANJAY4YU" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=DHANANJAY4YU" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Languages and Tools
