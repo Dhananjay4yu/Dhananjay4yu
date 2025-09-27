@@ -14,11 +14,8 @@
 ---
 
 ### 🔍 About Me
-
-- 🔭 I’m currently working on a **Research Project**
-- 🌱 I’m exploring **Advanced AI in Medical Applications**
 - 🤝 Looking to collaborate on **AI & ML Projects**
-- 💬 Ask me about: **AI Technology, Data Structures, OOP, Machine Learning**
+- 💬 Ask me about: **AI Technology, OOPS, Machine Learning, Deep Learning, Natural Language Processing**
 - 📫 Reach me at: **dhananjaykumar7979711@gmail.com**
 
 ---
